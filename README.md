@@ -1,6 +1,6 @@
 # Code Point Open Postcode Conversion Script
 
-**DISCLAIMER**: This is provided with no absolutely no warranty.
+**DISCLAIMER**: This is provided with absolutely no warranty.
 
 This script will download the codepoint open CSV data and convert the Easting and Northing coordinates to Latitudes and Longitudes.
 
